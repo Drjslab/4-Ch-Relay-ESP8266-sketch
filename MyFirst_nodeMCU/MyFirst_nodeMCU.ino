@@ -152,7 +152,8 @@ client.println("</tr>");
 client.println("</table>");
   
   client.println("</html>");
- 
+
+
   delay(1);
   Serial.println("Client disonnected");
   Serial.println("");
